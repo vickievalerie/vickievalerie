@@ -3,7 +3,7 @@
 <em>
 
     Welcome to my GitHub!
-    My name is Vickie Soshnikova. This year i am finishing the Kapitsa Phystech-Lyceum. 
+    My name is Vickie Soshnikova. I study wed design XD
     
 
 </em> 
